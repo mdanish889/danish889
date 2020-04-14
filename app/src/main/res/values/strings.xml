@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">danish889</string>
+    <string name="danish">muhammad Danish</string>
+    <string name="done">DONE</string>
+    <string name="DJ">DJ'S CPMNY</string>
+    <string name="tx2">TRAVEL AROUND YOUR CITY</string>
+    <string name="btnt1">FAVOURITE</string>
+    <string name="btnt2">LOCATION</string>
+    <string name="btnt3">SEARCH</string>
+    <string name="btnt4">SETTING</string>
+</resources>

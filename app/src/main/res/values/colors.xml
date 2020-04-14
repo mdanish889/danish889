@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bbe1fa</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="DJS">#71a95a</color>
+    <color name="btntc">#fff</color>
+
+    <color name="btnc1">#f4eec7</color>
+    <color name="rl1">#5f6769</color>
+    <color name="txt2">#f7f7f7</color>
+    <color name="btnall1">#313131</color>
+    <color name="btnc2">#f4eec7</color>
+    <color name="btnc3">#f4eec7</color>
+    <color name="btnc4">#f4eec7</color>
+    <color name="btnall2">#313131</color>
+    <color name="btnall3">#313131</color>
+    <color name="btnall4">#313131</color>
+</resources>

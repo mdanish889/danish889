@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rl1"
+    android:background="@color/rl1">
+
+    <TextView
+        android:id="@+id/tx1"
+        android:layout_width="650dp"
+        android:layout_height="200dp"
+        android:padding="30dp"
+
+        android:background="@color/DJS"
+
+
+        android:gravity="center"
+        android:text="@string/DJ"
+        android:textSize="50dp"
+        android:textStyle="bold" />
+
+<TextView
+    android:id="@+id/tx2"
+    android:layout_width="650dp"
+    android:layout_height="150dp"
+    android:layout_below="@+id/tx1"
+    android:textStyle="bold"
+    android:textColor="@color/txt2"
+    android:text="@string/tx2"
+    android:textSize="40sp"
+    android:gravity="center"
+    android:padding="10dp"
+
+
+
+
+
+
+
+
+    />
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:id="@+id/btn"
+        android:layout_below="@+id/tx2"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/btnall1"
+        android:textColor="@color/btntc"
+        android:textSize="40sp"
+        android:padding="7dp"
+        android:textStyle="bold"
+        android:text="@string/btnt1">
+
+
+
+
+    </Button>
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:id="@+id/btn1"
+        android:layout_below="@+id/btn"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/btnall2"
+
+        android:textColor="@color/btntc"
+        android:textSize="40sp"
+        android:padding="7dp"
+        android:text="@string/btnt2"
+        android:textStyle="bold"
+
+
+        >
+    </Button>
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:id="@+id/btn2"
+        android:layout_below="@+id/btn1"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/btnall3"
+
+        android:textColor="@color/btntc"
+        android:textSize="40sp"
+        android:padding="7dp"
+        android:text="@string/btnt3"
+        android:textStyle="bold"
+
+
+        >
+    </Button>
+
+
+
+
+
+
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:id="@+id/btn3"
+        android:layout_below="@+id/btn2"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+android:background="@color/btnall4"
+
+        android:textColor="@color/btntc"
+        android:textSize="40sp"
+        android:padding="7dp"
+        android:text="@string/btnt4"
+        android:textStyle="bold"
+
+        >
+    </Button>
+
+
+</RelativeLayout>
